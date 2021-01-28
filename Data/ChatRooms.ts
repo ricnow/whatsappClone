@@ -3,11 +3,11 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u2',
-      name: 'Lukas',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-1/p200x200/107443858_3074598385966770_1929559809312242379_n.jpg?_nc_cat=107&_nc_sid=7206a8&_nc_eui2=AeGly5fZLQUfAKei_EiACEq5Dfw2T_M-BQMN_DZP8z4FA_aLEVK_8e0dKvl_5vxVO0Zn-4OPzQ9pKS0c0XeXd898&_nc_ohc=z1ydC_UL4KsAX_tfrbv&_nc_oc=AQknywM4y1IAQaQZaZkPdtkUmaem060LXSByeTx3pdQXWfxW2_tdzfgRsQIXQK_zV94&_nc_ht=scontent.fkiv3-1.fna&tp=6&oh=69508c88f073f64f432fc1f1ab9299e8&oe=5F9C5FD5',
+      name: 'Brad Pitt',
+      imageUri: 'https://ogimg.infoglobo.com.br/in/24211481-411-73e/FT1086A/652/GettyImages-1200624319.jpg',
     }],
     lastMessage: {
       id: 'm1',
@@ -19,10 +19,10 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u3',
-      name: 'Daniil',
+      name: 'Angelina Jolie',
       imageUri: 'https://lkbkspro.s3.amazonaws.com/atelier-management/gs_58d933b8-98b4-468e-b229-43100a9620a7.jpg',
     }],
     lastMessage: {
@@ -35,15 +35,15 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u4',
-      name: 'Alex',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/120265890_2659046234308755_83273782629061168_n.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_eui2=AeFydVcQHwdfhPgKavejHgTkZj50mLqkTwRmPnSYuqRPBBjekO0sZKdUNlELv62Htps4xAUKslo4tD8g8YyTPQ50&_nc_ohc=YcnPR2BvKUgAX_rSMDJ&_nc_ht=scontent.fkiv3-1.fna&oh=ea3bcd9c21e5538c744e4cb19464713b&oe=5F9E4002',
+      name: 'Jennifer Lopez',
+      imageUri: 'https://amazonasatual.com.br/wp-content/uploads/2019/10/Jennifer-Lopez.jpg',
     }],
     lastMessage: {
       id: 'm3',
-      content: 'Hi, Vadim.',
+      content: 'Hi, Richelle.',
       createdAt: '2020-10-02T14:48:00.000Z',
     }
   }, {
@@ -51,11 +51,11 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u5',
-      name: 'Vlad',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.15752-9/120640479_2760477844167786_6938949653508389840_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_eui2=AeGVhYmC95nNnVy1xOf6ArJ2jSXP0lcbAsGNJc_SVxsCwevGmgj2fByDCyiWY8iQK-k-KkqYMmK-pPRahQiFUqAT&_nc_ohc=0d4q0ZI3HTgAX_0LSog&_nc_ht=scontent.fkiv3-1.fna&oh=c9155df4d012070901bce3e8f0e2d877&oe=5F9F9DF5',
+      name: 'Sandrinha',
+      imageUri: 'https://harpersbazaar.uol.com.br/wp-content/uploads/2020/07/sandra-bullock-beleza-getty.jpg',
     }],
     lastMessage: {
       id: 'm4',
@@ -67,11 +67,11 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u6',
       name: 'Elon Musk',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/117929133_107809907710190_7419805747453745280_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_eui2=AeHyr9m8dMUXCyqgYiDxTTMqypeilYrkr1_Kl6KViuSvX2aKglh0TaInpI6Uqbk8nRSKq6iOQuTncbpb6Uik2iH8&_nc_ohc=YusbV4P7yQMAX9ptPAN&_nc_ht=scontent.fkiv3-1.fna&oh=ebee2db09b2a70c9dbef1bdad876c09c&oe=5F9D4112',
+      imageUri: 'https://static.theceomagazine.net/wp-content/uploads/2018/10/15093202/elon-musk.jpg',
     }],
     lastMessage: {
       id: 'm5',
@@ -83,11 +83,11 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u7',
-      name: 'Adrian',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-8/12185020_10206884996416284_5116038671917824834_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_eui2=AeGr_NhJtwGWWfHbkoBSmifLKzIg47DpEF0rMiDjsOkQXf7yavDd4m-3CLbl5nqAMGcj2nn0Dqg7beNAzuZMzTFK&_nc_ohc=KOCn_AYCJxkAX_ZcLBP&_nc_ht=scontent.fkiv3-1.fna&oh=8cc4e5445ce4633db9d6234f42ccb368&oe=5F9C24D1',
+      name: 'Ryan Reinolds',
+      imageUri: 'https://www.lance.com.br/files/article_main/uploads/2020/11/16/5fb29dadd96d8.jpeg',
     }],
     lastMessage: {
       id: 'm6',
@@ -99,11 +99,11 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u8',
-      name: 'Borja',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/14639688_10154618563394501_7732414502546927586_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_eui2=AeHoAmU6vBHtxse4pY5lCxy5mE72isysx5eYTvaKzKzHl0wF5HhppdSbpFTEnGVXBMLig16R9B4iHrsuAOk_V_fY&_nc_ohc=Sit1NLT0GMsAX9baI56&_nc_ht=scontent.fkiv3-1.fna&oh=16d88a54bb1629c24e77afed0c49f869&oe=5F9EAC05',
+      name: 'Adam Sandler',
+      imageUri: 'https://www.acritica.com/uploads/news/image/770105/show_DANNY_MOLOSHOK_75746389-1549-469A-9266-F6FBD595F177.JPG',
     }],
     lastMessage: {
       id: 'm7',
@@ -115,11 +115,11 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u9',
-      name: 'Mom',
-      imageUri: 'https://image.shutterstock.com/image-vector/super-mom-hero-superhero-cartoon-600w-720015928.jpg',
+      name: 'Johnny Depp',
+      imageUri: 'https://cdn-ofuxico.akamaized.net/img/upload/noticias/2020/07/08/johnny-depp-tem-video-comprometedor-mostrado-em-tribunal_381432_36.jpg',
     }],
     lastMessage: {
       id: 'm8',
@@ -131,11 +131,11 @@ export default [{
     users: [{
       id: 'u1',
       name: 'Vadim',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+      imageUri: 'https://avatars.githubusercontent.com/u/65849468?s=460&u=1c0cf1819ae8fb9c67184ae7170a4973a078894c&v=4'
     }, {
       id: 'u10',
-      name: 'Angelina Jolie',
-      imageUri: 'https://lkbkspro.s3.amazonaws.com/atelier-management/gs_58d933b8-98b4-468e-b229-43100a9620a7.jpg',
+      name: 'Eva Mendes',
+      imageUri: 'https://conteudo.imguol.com.br/c/entretenimento/2013/08/26/eva-mendes-1377552622043_300x420.jpg',
     }],
     lastMessage: {
       id: 'm9',

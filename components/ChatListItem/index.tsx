@@ -1,5 +1,11 @@
 import React  from 'react';
-import { View, Text, Image } from 'react-native'
+import moment from 'moment';
+import { 
+    View, 
+    Text, 
+    Image, 
+    TouchableWithoutFeedback 
+} from 'react-native'
 import { ChatRoom } from '../../types';
 import styles from './style';
 
@@ -13,22 +19,25 @@ const ChatListItem = (props: ChatListItemProps) => {
       
     
     return (
-    <View style={styles.container}>
+        <TouchableWithoutFeedback>
+            <View style={styles.container}>
+                <View style={styles.leftContainer}>
+                    <Image source={{ uri: user.imageUri }} style={styles.avatar}/>
+                
+                    <View style={styles.midContainer}>
+                        <Text style={styles.username}>{user.name}</Text>
+                        <Text numberOfLines={1}  style={styles.lastMessage}>{chatRoom.lastMessage.content}</Text>
+                    </View>
+                        
+                </View>
+                <Text style={styles.time}>
+                    {moment(chatRoom.lastMessage.createdAt).format("DD/MM/YYYY")}
+                </Text>
+                
 
-        <View style={styles.leftContainer}>
-            <Image source={{ uri: user.imageUri }} style={styles.avatar}/>
-        
-            <View style={styles.midContainer}>
-                <Text style={styles.username}>{user.name}</Text>
-                <Text numberOfLines={1}  style={styles.lastMessage}>{chatRoom.lastMessage.content}</Text>
+            
             </View>
-                  
-        </View>
-        {/*<Text>{chatRoom.lastMessage.createdAt}</Text>*/}
-        <Text style={styles.time}>21/01/2021</Text> 
-
-       
-    </View>
+        </TouchableWithoutFeedback>
     )
 };
 

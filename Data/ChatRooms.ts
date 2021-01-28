@@ -23,7 +23,7 @@ export default [{
     }, {
       id: 'u3',
       name: 'Daniil',
-      imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-8/14242257_122280314893965_2111799435851825649_o.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeH1OfzTrJPQ6gm8y5chASx9XduE6cDoPWBd24TpwOg9YB3iQXtk3WFlfnz5Z8K89WDuLYc3YgooGcmFvcn5fpBL&_nc_ohc=HZKFqosOM-IAX_SsXhT&_nc_oc=AQksp486WazJyCTMR5esRx51kZ8He2qUotQP7EAtzySMJl7i9H2Pv4PpULir6W5Eglk&_nc_ht=scontent.fkiv3-1.fna&oh=b45419e5106747d75fdd548392517a3c&oe=5F9FB4DD',
+      imageUri: 'https://lkbkspro.s3.amazonaws.com/atelier-management/gs_58d933b8-98b4-468e-b229-43100a9620a7.jpg',
     }],
     lastMessage: {
       id: 'm2',

@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
     },
     leftContainer: {
         flexDirection: 'row',
+        flex: 1,
     },
     midContainer: {
         justifyContent: 'space-around',

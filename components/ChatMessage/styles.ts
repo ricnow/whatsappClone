@@ -24,6 +24,9 @@ const styles = StyleSheet.create({
   backgroundImage: {
     width: '100%',
   },
+  seta: {
+    alignItems: "center",
+  }
 });
 
 export default styles;

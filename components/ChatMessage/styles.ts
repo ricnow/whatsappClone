@@ -20,7 +20,10 @@ const styles = StyleSheet.create({
   time: {
     alignSelf: "flex-end",
     color: 'grey'
-  }
+  },
+  backgroundImage: {
+    width: '100%',
+  },
 });
 
 export default styles;

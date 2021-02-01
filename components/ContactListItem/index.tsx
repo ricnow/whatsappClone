@@ -23,7 +23,13 @@ const ContactListItem = (props: ContactListItemProps) => {
      
     const onClick = () => {
        //Redirecionar para chat com a pessoa
-        }
+       navigation.navigate('ChatRoom', {
+        id: user.id, 
+        name: user.name,
+        image: user.imageUri,
+    })
+}
+ 
     
   
   return (

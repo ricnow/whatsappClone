@@ -16,9 +16,12 @@ const NewMessageButton = () => {
     <View style={styles.container}>
       <TouchableOpacity onPress={onPress}>
         <MaterialCommunityIcons
-          name="message-reply-text"
+          name="android-messages"
           size={28}
           color="white"
+          style={{
+            transform: [{rotateY: '180deg'}]
+          }}
         />
       </TouchableOpacity>
     </View>

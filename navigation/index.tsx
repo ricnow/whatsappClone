@@ -39,6 +39,8 @@ export default function Navigation({ colorScheme }: { colorScheme: ColorSchemeNa
 const Stack = createStackNavigator<RootStackParamList>();
   function RootNavigator() {
     
+    
+
     return (
 
     
@@ -87,7 +89,7 @@ const Stack = createStackNavigator<RootStackParamList>();
               justifyContent: 'space-between',
               
             }}>
-            <HeaderBackButton onPress={() => route.goBack()} tintColor='white' />
+            <HeaderBackButton tintColor='white' />
            
             <Image source={{uri: route.params.image}}
             
@@ -128,6 +130,9 @@ const Stack = createStackNavigator<RootStackParamList>();
       <Stack.Screen
         name="Contacts"
         component={ContactsScreen}
+        options={{
+          title: 'Contatos',
+        }}
       />
       <Stack.Screen name="NotFound" component={NotFoundScreen} options={{ title: 'Oops!' }} />
     </Stack.Navigator>

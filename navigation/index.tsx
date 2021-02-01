@@ -38,10 +38,7 @@ export default function Navigation({ colorScheme }: { colorScheme: ColorSchemeNa
 // Read more here: https://reactnavigation.org/docs/modal
 const Stack = createStackNavigator<RootStackParamList>();
   function RootNavigator() {
-    
-    
-
-    return (
+  return (
 
     
     <Stack.Navigator screenOptions={{
@@ -84,33 +81,22 @@ const Stack = createStackNavigator<RootStackParamList>();
           title: null,
           
           headerLeft: () => (
-            <View style={{
-              flexDirection: 'row',
-              justifyContent: 'space-between',
-              
-            }}>
-            <HeaderBackButton tintColor='white' />
-           
-            <Image source={{uri: route.params.image}}
-            
-            style={{
-              width: 35,
-              height:35,
-              borderRadius: 25,
-              
-              
-            }} />
-            <Text style={{
-              color: 'white',
-              fontSize: 18,
-              fontWeight: 'bold',
-              marginLeft: 5,
-              textAlign: 'center',
-              }}>{route.params.name}
-            </Text>
-            </View>
-            
-          ),
+            <View style={{flexDirection: 'row', justifyContent: 'space-between'}}>
+				<HeaderBackButton tintColor='white' />
+				<Image source={{uri: route.params.image}}
+					style={{
+						width: 35,
+						height:35,
+						borderRadius: 25,}} />
+				<Text style={{
+					color: 'white',
+					fontSize: 18,
+					fontWeight: 'bold',
+					marginLeft: 5,
+					textAlign: 'center'}}>
+						{route.params.name}
+				</Text>
+            </View> ),
           
           headerRight: () => (
             <View style={{

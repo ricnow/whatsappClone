@@ -31,7 +31,8 @@ export default function MainTabNavigator() {
         },
         labelStyle: {
           fontWeight: 'bold',
-          fontSize: 11,
+          fontSize: 10,
+          
         },
         showIcon: true,
         
@@ -41,10 +42,12 @@ export default function MainTabNavigator() {
         name="Camera"
         component={TabOneNavigator}
         options={{
-          tabBarIcon: ({ color }) => <Fontisto name="camera" color={color} size={16} />,
+          tabBarIcon: ({ color }) => <Fontisto name="camera" color={color} size={14} />,
           tabBarLabel: () => null,
+          
            
         }}
+        
       />
       <MainTab.Screen
         name="conversas"

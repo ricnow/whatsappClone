@@ -14,7 +14,7 @@ Amplify.configure(config)
 function App() {
   const isLoadingComplete = useCachedResources();
   const colorScheme = useColorScheme();
-  const getRand
+  
   //Rodas esse snippet apenas quando o App for montado a primeira vez
   useEffect(async() => {
     const fetchUser = async () => {
